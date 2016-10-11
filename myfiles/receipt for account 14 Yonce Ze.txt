@@ -1,0 +1,40 @@
+
+==========Account Information===============
+Account Number: 14
+Name: Yonce Ze
+Address: 444 Project Ave.s
+Registration date: 2012/02/23
+Plan: Regular
+==========Payment Information===============
+Transaction Date: 2016/04/26
+Payment Type: MasterCard
+Credit Card Number: 123123123123123
+Balance Due: 9.0
+Amount Charged to Credit Card: 1
+Remaining Balance: 8.0
+==========Account Information===============
+Account Number: 14
+Name: Yonce Ze
+Address: 444 Project Ave.s
+Registration date: 2012/02/23
+Plan: Regular
+==========Payment Information===============
+Transaction Date: 2016/04/26
+Payment Type: MasterCard
+Credit Card Number: 12312123123123
+Balance Due: $8.0
+Amount Charged to Credit Card: $1231
+Remaining Balance: $0.0
+==========Account Information===============
+Account Number: 14
+Name: Yonce Ze
+Address: 444 Project Ave.s
+Registration date: 2012/02/23
+Plan: Regular
+==========Payment Information===============
+Transaction Date: 2016/05/04
+Payment Type: MasterCard
+Credit Card Number: 1321312321312312
+Balance Due: $15.0
+Amount Charged to Credit Card: $12
+Remaining Balance: $3.0

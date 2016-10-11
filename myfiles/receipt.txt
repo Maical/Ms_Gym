@@ -1,0 +1,12 @@
+
+==========Account Information===============
+Account Number14
+Name: Yonce Ze
+Address: 444 Project Ave.s
+Registration date:2012/02/23
+PlanRegular
+==========Payment Information===============
+Payment Type: MasterCard
+Credit Card Number: 12312312312312312
+Amount Charged to Credit Card: 1
+Remaining Balance: 10.0

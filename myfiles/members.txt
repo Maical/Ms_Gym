@@ -1,0 +1,24 @@
+1|Oscar I.|999 Cool Kid St|Regular|53.44|2016/2/17|
+2|Fox McThor|1234 FakeBurbon St.|Regular|40.44|2010/1/12|
+3|Lady Wilde|31 BlueBerry St.|Regular|23.33|2014/1/17|
+5|Strong Man|Strong Village|Regular|73.11|2010/03/12|
+8|Damey Lilly|678 Make up|Regular|73.11|2014/01/16|
+11|Jimmy Joe|98 Good Ave.|Regular|40.0|2013/02/7|
+13|Slim Jack|23 Final St.|Regular|32.0|2016/04/8|
+10|Joby Jobez|This address is greatsss|Regular|0.0|2016/04/24|
+
+
+
+
+
+
+
+
+
+
+
+
+
+23|Jackie Jonesy|2263 Wac Rd|Premium|33.0|2011/03/22|
+
+14|Yonce Ze|444 Project Ave.s|Regular|3.0|2012/02/23|
